@@ -1,0 +1,248 @@
+#ham {
+    font-size: 26px;
+    line-height: 36px;
+    padding-left: 180px;
+    padding-top: 200px;
+    font-size: 50px;
+}
+
+#make{
+    margin: 10px 0 0 0;
+    font-size: 18px;
+    line-height: 24px;
+    padding-left: 180px;
+}
+#make2{
+    margin: 10px 0 0 0;
+    font-size: 18px;
+    line-height: 24px;
+    padding-left: 180px;
+}
+
+.head{
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://image.freepik.com/free-photo/smiling-handsome-mixed-race-schoolboy-with-books-backpack-giving-thumbs-up-isolated-yellow-wall-with-copy-space_8087-4267.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    opacity: 90%;
+}
+
+#what{
+    padding-top: 20px;
+    text-align: center;
+    margin: 100px;
+}
+
+#mission{
+    text-align: left;
+    line-height: 20px;
+    
+}
+
+#mission2{
+    text-align: left;
+   line-height: 20px;
+}
+
+#vision{
+    text-align: left;
+    line-height: 20px;
+}
+
+#vision2{
+    text-align: left;
+    line-height: 20px;
+}
+
+#values{
+    text-align: left;
+    line-height: 20px;
+}
+
+#values2{
+     text-align: left;
+    line-height: 20px;
+}
+
+
+
+
+
+  #mission22{
+  float: right;
+  padding-right: 800px;
+  
+  }
+
+  #img11{
+
+width: 10%;
+    height: 10vh;
+    padding-top: 30px;
+
+  }
+
+
+  #float1{
+    float: left;
+    height: 200px;
+    width: 200px;
+
+  }
+
+  .float1{
+    padding-top: 30px;
+
+  }
+
+  #float2{
+    float: left;
+    height: 200px;
+    width: 200px;
+
+  }
+
+  .float2{
+    padding-top: 30px;
+    
+  }
+
+  #float3{
+    float: left;
+    height: 120px;
+    width: 120px;
+
+  }
+
+  .float3{
+    padding-top: 5px;
+
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: blueviolet;
+    color: white;
+    opacity: 100px;
+    height: 100px;
+    
+  }
+  
+  li {
+    float: right;
+    padding-right: 40px;
+    padding-top: 20px;
+  }
+  
+  li a {
+    display: block;
+    color:white;
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+  li a:hover {
+    background-color: orange;
+  }
+
+#allwhatsimg{
+  float: right;
+    height: 500px;
+    width: 500px;
+}
+#allwhats{
+  padding-top: 30px;
+}
+
+.baby1{
+background-color: blueviolet;
+border-radius: 10px;
+height: 200px;
+color: white;
+padding-left: 80px;
+padding-top: 50px;
+margin-top: 200px;
+}
+
+
+
+#baby2{
+background-color: orange;
+width: 120px;
+border-radius: 10px;
+padding-left: 20px;
+
+}
+#baby2:hover{
+color: red
+}
+
+#services{
+text-align: center;
+margin-top: 100px;
+}
+
+#care1{
+  height: 200px;
+  width: 200px;
+ 
+}
+
+#ul1{
+padding-right: 170px;
+}
+
+#ul2{
+  
+  padding-right: 300px;
+  border-radius: 10px;
+height: 200px;
+margin-top: 100px;
+
+  }
+
+#lii1{
+  color: white;
+  font-size: x-large;
+  text-align: center;
+}
+
+#aboutpic1{
+  width: 900px;
+  height: 500px;
+}
+#major1{
+  font-size: x-large;
+}
+
+#allabout{
+  padding-left: 100px;
+}
+
+#events{
+  text-align: center;
+  padding-top: 50px;
+}
+
+#footer{
+  padding-left: 100px;
+  background-color: blueviolet;
+  color: white;
+  height: 150px;
+  border-radius: 30px;
+  padding-top: 50px;
+}
+.iwant{
+  float: right;
+  padding-top: 80px;
+  padding-right: 100px;
+}
+
+a:hover{
+  color: orange;
+}
